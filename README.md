@@ -6,16 +6,21 @@ Installation and Setup:
 
 Codes and Resources Used:
 
-·      Editor: Jupyter Notebook
-·      Python Version: 3.9.13
+·      Editor: Jupyter Notebook  
 
-Python Packages Used:
+·      Python Version: 3.9.13  
 
-·      Data Manipulation: pandas, numpy
-·      Data Visualization: matplotlib, seaborn
-·      Machine Learning: sklearn
- 
-Data:
+
+Python Packages Used:  
+
+·      Data Manipulation: pandas, numpy  
+
+·      Data Visualization: matplotlib, seaborn  
+
+·      Machine Learning: sklearn  
+
+
+Data:  
 
 Source Data:
 
